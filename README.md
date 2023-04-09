@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshksh" alt="deveshksh" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development in Django**
+- 🌱 I’m currently learning **Backend Development in Django and DSA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/devesh-k-3730a8165/**
 
