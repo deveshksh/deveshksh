@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshksh&label=Profile%20views&color=0e75b6&style=flat" alt="deveshksh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshksh" alt="deveshksh" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshksh" alt="deveshksh" /></a> </p> -->
 
 - 🌱 I’m currently learning **Backend Development in Django and solving DSA problems**
 
