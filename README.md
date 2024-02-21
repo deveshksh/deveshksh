@@ -19,3 +19,11 @@
 <a href="https://linkedin.com/in/devesh-k-3730a8165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-k-3730a8165" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21503150/devesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21503150/devesh-kumar" height="30" width="40" /></a>
 </p>
+
+<!-- ![](https://komarev.com/ghpvc/?username=deveshksh) -->
+
+<p align="center">
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=deveshksh&count_private=true&theme=tokyonight&show_icons=true"/>
+  <img height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshksh&layout=compact&langs_count=10&theme=tokyonight&show_icons=true&exclude_repo=HealthChief&hide=jupyter%20notebook"/>
+</p>
+
